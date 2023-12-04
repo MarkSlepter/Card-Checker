@@ -2,7 +2,6 @@ package com.teachmeskills.lesson10;
 
 public class Client {
     private Card[] cards;
-
     public Client(String cardNumber, int cvc, double balanceOnCard) {
     }
 
