@@ -1,4 +1,4 @@
-package com.teachmeskills.lesson10;
+package task1;
 
 public class Runner {
     

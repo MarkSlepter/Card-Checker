@@ -1,4 +1,4 @@
-package com.teachmeskills.lesson10;
+package task1;
 
 public record Card(String cardNumber,
                    int CVC,
