@@ -1,5 +1,3 @@
-# TeachMeSkills_C26_Lesson_10_HW
-This repository contains my homework assignment number 10
 # Task 1
 There is a client.
 The client can have any number of cards.
